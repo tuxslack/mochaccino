@@ -7,4 +7,5 @@ Uses a modded tint2rc file in order to indicate status through the background co
 
 Icon made by Freepik from www.flaticon.com
 
-A variável $tint_config no script toggle.sh armazena o nome do arquivo de configuração que será usado pelo tint2.
+The $tint_config variable in the toggle.sh script stores the name of the configuration file that will be used by tint2.
+
